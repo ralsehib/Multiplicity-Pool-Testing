@@ -1,3 +1,10 @@
+# This file contains functions to estimate the individual and multipool testing accuracy; pool testing sensitivity and specificity.
+# Last modified date: 9 December 2022
+# Authors: Omar De La Cruz Cabrera and Razan Alsehibani
+
+
+library(Matrix)
+
 # Testing pooling strategy
 
 
